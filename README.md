@@ -53,9 +53,9 @@ This project demonstrates practical usage of:
 ## 📁 Project Structure
 
 ```
-Directory-Sentinel/
+CleandDirectory-Automation/
 │
-├── directory_sentinel.py
+├── SourceCode.py
 ├── README.md
 ├── requirements.txt
 └── Sample_Log/
@@ -68,13 +68,13 @@ Directory-Sentinel/
 Clone the repository
 
 ```bash
-git clone https://github.com/Ashu_k10/directory-sentinel.git
+git clone https://github.com/Ashu_k10/CleandDirectory-Automation.git
 ```
 
 Move into the project
 
 ```bash
-cd cleandirectory-Automation
+cd CleanDirectory-Automation
 ```
 
 Install dependencies
