@@ -202,6 +202,6 @@ This project is licensed under the MIT License.
 
 **Ashutosh Kadu**
 
-Computer Science Engineering Student
+Computer Engineering Student
 
 Python • Automation • AI
