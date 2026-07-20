@@ -171,19 +171,6 @@ This project helped me understand:
 
 ---
 
-## 🔮 Future Improvements
-
-- GUI using Tkinter or PyQt
-- Email notification after cleanup
-- Delete files older than X days
-- JSON/CSV log reports
-- Custom scheduling intervals
-- Ignore specific file extensions
-- Progress bar
-- Multi-threaded scanning
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome.
@@ -194,7 +181,7 @@ Fork the repository and submit a Pull Request.
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under All rights reserved 
 
 ---
 
