@@ -181,7 +181,7 @@ Fork the repository and submit a Pull Request.
 
 ## 📜 License
 
-This project is licensed under All rights reserved 
+This project is licensed under All rights reserved ©
 
 ---
 
