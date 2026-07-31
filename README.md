@@ -5,7 +5,7 @@ An automated Python utility that periodically scans directories, removes empty f
 
 ## 📌 Overview
 
-Directory Sentinel is a Python automation tool that continuously monitors a specified directory at regular intervals.
+CleanDirectory is a Python automation tool that continuously monitors a specified directory at regular intervals.
 
 The application scans every file inside the directory and its subdirectories, identifies empty files, deletes them automatically, and creates a timestamped log file containing the scan details.
 
@@ -90,7 +90,7 @@ pip install schedule
 Run the script
 
 ```bash
-python directory_sentinel.py "C:\Users\Ash\Documents\TestFolder"
+python CleanDirectory.py "C:\Users\Ash\Documents\TestFolder"
 ```
 
 Example
